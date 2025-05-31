@@ -29,4 +29,5 @@ Bottom Navigation Bar (Mobile-Friendly):
 🧠 Skills Demonstrated:
                HTML5 and CSS3 proficiency.UI/UX design thinking.Responsive layout using Flexbox and media queries.Color theory and typography for branding.
 
-
+Output : 
+        ![Image](https://github.com/user-attachments/assets/d253151d-3e8d-41f8-a55c-602980cc55fe)
